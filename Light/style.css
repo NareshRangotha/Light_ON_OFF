@@ -1,0 +1,44 @@
+body,html{
+    margin: 0%;
+    padding: 0%;
+    margin-top: 110px;
+    /* background:rgb(185 199 196);  */
+    background: rgb(191 195 195);
+    /* background: rgb(181 194 193);    */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.main-heading{
+    height: 100;
+    display: inline-block;
+    /* background: black; */
+    text-decoration-color: antiquewhite;
+}
+h1{
+    color:rgb(0 0 0);
+}
+
+button{
+    display: inline-block;
+    background: #ad9869;
+    color:rgb(0 0 0);
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 4px;
+    transition: 500ms;
+    text-decoration: none;
+    padding: 12px;
+    z-index: 100000;
+    cursor: pointer;
+}
+
+img{
+    width: 300px;
+    height:300px;
+}
